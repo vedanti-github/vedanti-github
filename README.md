@@ -1,8 +1,9 @@
 ### Hi there 👋
 [![@vedantiekre's Holopin board](https://holopin.me/vedantiekre)](https://holopin.io/@vedantiekre)
 
--🧑‍💻 I'm a Pyhton Enthusiast
--💻 I have created some Data Science projects using Machine Learning Algorithms.
+- 🧑‍💻 I'm a Pyhton Enthusiast 
+- 💻 I have created some Data Science projects using Machine Learning Algorithms.
+
 <!--
 **vedanti-github/vedanti-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
