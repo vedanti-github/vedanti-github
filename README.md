@@ -3,6 +3,7 @@
 
 - 🧑‍💻 I'm a Pyhton Enthusiast 
 - 💻 I have created some Data Science projects using Machine Learning Algorithms.
+- 🔭 I have completed a month long Data Science internship in The Sparks Foundation 
 
 <!--
 **vedanti-github/vedanti-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
