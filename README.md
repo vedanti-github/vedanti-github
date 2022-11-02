@@ -3,6 +3,9 @@
 <!--
 **vedanti-github/vedanti-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+[![@vedantiekre's Holopin board](https://holopin.me/vedantiekre)](https://holopin.io/@vedantiekre)
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
