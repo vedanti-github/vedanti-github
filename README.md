@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![@vedantiekre's Holopin board](https://holopin.me/vedantiekre)](https://holopin.io/@vedantiekre)
 
-- 🧑‍💻 I'm a Pyhton Enthusiast 
+- 🧑‍💻 I'm a Python Enthusiast 
 - 💻 I have created some Data Science projects using Machine Learning Algorithms.
 - 🔭 I have completed a month long Data Science internship in The Sparks Foundation 
 
